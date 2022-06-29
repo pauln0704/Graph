@@ -1,0 +1,6 @@
+Simulate the graph abstract data type.
+Graph is crated from a file that contains edge values.
+The graph is tested from the GraphTest file.
+
+No command line areguments needed.
+Simply run the executable and it will run tests on the program using some provided file.
